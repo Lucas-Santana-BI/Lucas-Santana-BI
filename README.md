@@ -45,9 +45,11 @@ Solução desenvolvida no **Salesforce CRM Analytics** para responder a um desaf
 * **Execução Técnica:** Orquestração de base via Data Prep, aplicação de regras de saneamento cadastral e cruzamento temporal via **SAQL** (`cogroup`).
 * *[Ver case completo e scripts do CRMA](https://github.com/Lucas-Santana-BI/CRMA_Portfolio-Lucas)*
 
-#### 📈 Análise Estratégica em Power BI
-*Descreva aqui como este dashboard ajudou a resolver um problema de negócio, como otimização de custos, acompanhamento de funil de vendas ou gestão de produtividade.*
-* *[Ver repositório completo de Power BI](https://github.com/Lucas-Santana-BI/PowerBI_Portfolio-Lucas_)*
+#### 📈 [Dashboard Estratégico: Rentabilidade e Operações de E-commerce (Power BI)](#)
+Solução analítica end-to-end desenvolvida para diagnosticar a performance operacional e financeira de uma rede de E-commerce nacional.
+* **Impacto de Negócio:** Identificação de causa raiz em quedas de margem de lucro, mapeamento de risco logístico regional e autonomia executiva com Self-Service Analytics via IA integrada.
+* **Execução Técnica:** Modelagem avançada em **DAX** (transição de contexto), simulação financeira com parâmetros *What-If* e análise de Pareto (Curva ABC) dinâmica.
+* *[Ver case completo e documentação do Power BI](https://github.com/Lucas-Santana-BI/PowerBI_Portfolio-Lucas_)*
 
 ---
 
