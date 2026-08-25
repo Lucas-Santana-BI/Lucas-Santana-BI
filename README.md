@@ -45,7 +45,7 @@ Solução desenvolvida no **Salesforce CRM Analytics** para responder a um desaf
 * **Execução Técnica:** Orquestração de base via Data Prep, aplicação de regras de saneamento cadastral e cruzamento temporal via **SAQL** (`cogroup`).
 * *[Ver case completo e scripts do CRMA](https://github.com/Lucas-Santana-BI/CRMA_Portfolio-Lucas)*
 
-#### 📈 [Análise Estratégica em Power BI]
+#### 📈 Análise Estratégica em Power BI
 *Descreva aqui como este dashboard ajudou a resolver um problema de negócio, como otimização de custos, acompanhamento de funil de vendas ou gestão de produtividade.*
 * *[Ver repositório completo de Power BI](https://github.com/Lucas-Santana-BI/Lucas-Santana-BI.git)*
 
