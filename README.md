@@ -47,7 +47,7 @@ Solução desenvolvida no **Salesforce CRM Analytics** para responder a um desaf
 
 #### 📈 Análise Estratégica em Power BI
 *Descreva aqui como este dashboard ajudou a resolver um problema de negócio, como otimização de custos, acompanhamento de funil de vendas ou gestão de produtividade.*
-* *[Ver repositório completo de Power BI]([https://github.com/Lucas-Santana-BI/Lucas-Santana-BI.git](https://github.com/Lucas-Santana-BI/PowerBI_Portfolio-Lucas_))*
+* *[Ver repositório completo de Power BI]([https://github.com/Lucas-Santana-BI/Lucas-Santana-BI.git](https://github.com/Lucas-Santana-BI/PowerBI_Portfolio-Lucas_)*
 
 ---
 
