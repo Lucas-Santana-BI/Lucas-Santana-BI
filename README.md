@@ -39,7 +39,7 @@ Acredito que a técnica (ETL, SQL, SAQL, Python) só tem valor quando orientada 
 
 ### 🏆 Portfólio de Soluções Analíticas
 
-#### 📊 [Dashboard Executivo: Cobertura e Recorrência de Atendimentos (Sebrae CE)]
+#### 📊 Dashboard Executivo: Cobertura e Recorrência de Atendimentos (Sebrae CE)
 Solução desenvolvida no **Salesforce CRM Analytics** para responder a um desafio estratégico: medir a real capilaridade territorial e a taxa de fidelização de clientes corporativos (PJs).
 * **Impacto de Negócio:** Visibilidade executiva sobre metas de cobertura (MEI/ME/EPP) e monitoramento do retorno de clientes entre 2025 e 2026.
 * **Execução Técnica:** Orquestração de base via Data Prep, aplicação de regras de saneamento cadastral e cruzamento temporal via **SAQL** (`cogroup`).
