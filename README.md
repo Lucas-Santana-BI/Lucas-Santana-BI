@@ -39,18 +39,22 @@ Acredito que a técnica (ETL, SQL, SAQL, Python) só tem valor quando orientada 
 
 ### 🏆 Portfólio de Soluções Analíticas
 
-#### 📊 Dashboard Executivo: Cobertura e Recorrência de Atendimentos (Sebrae CE)
+#### 📊 [Dashboard Executivo: Cobertura e Recorrência de Atendimentos (Sebrae CE)](https://github.com/Lucas-Santana-BI/CRMA_Portfolio-Lucas)
 Solução desenvolvida no **Salesforce CRM Analytics** para responder a um desafio estratégico: medir a real capilaridade territorial e a taxa de fidelização de clientes corporativos (PJs).
 * **Impacto de Negócio:** Visibilidade executiva sobre metas de cobertura (MEI/ME/EPP) e monitoramento do retorno de clientes entre 2025 e 2026.
 * **Execução Técnica:** Orquestração de base via Data Prep, aplicação de regras de saneamento cadastral e cruzamento temporal via **SAQL** (`cogroup`).
-  
 * *[Ver case completo e scripts do CRMA](https://github.com/Lucas-Santana-BI/CRMA_Portfolio-Lucas)*
 
-#### 📈 [Dashboard Estratégico: Rentabilidade e Operações de E-commerce (Power BI)](#)
+#### 📈 [Dashboard Estratégico: Rentabilidade e Operações de E-commerce (Power BI)](https://github.com/Lucas-Santana-BI/PowerBI_Portfolio-Lucas_)
 Solução analítica end-to-end desenvolvida para diagnosticar a performance operacional e financeira de uma rede de E-commerce nacional.
 * **Impacto de Negócio:** Identificação de causa raiz em quedas de margem de lucro, mapeamento de risco logístico regional e autonomia executiva com Self-Service Analytics via IA integrada.
 * **Execução Técnica:** Modelagem avançada em **DAX** (transição de contexto), simulação financeira com parâmetros *What-If* e análise de Pareto (Curva ABC) dinâmica.
 * *[Ver case completo e documentação do Power BI](https://github.com/Lucas-Santana-BI/PowerBI_Portfolio-Lucas_)*
+
+#### 🗺️ [Mapeamento Estratégico: Polos de Empreendedorismo no Brasil](https://github.com/Lucas-Santana-BI/Tableau_Portolio_Lucas)
+Painel de inteligência de mercado focado em identificar viabilidade econômica e densidade de negócios corporativos no território nacional.
+* **Impacto de Negócio:** Criação de uma "Matriz de Vitalidade" cruzando renda per capita e taxa de empreendedorismo para orientar estratégias de expansão B2B e mapear o risco de mortalidade de empresas (2024-2026).
+* *[Ver case completo do Mapeamento de Empreendedorismo](https://github.com/Lucas-Santana-BI/Tableau_Portolio_Lucas)*
 
 ---
 
