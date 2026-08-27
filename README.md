@@ -10,7 +10,7 @@ Acredito que a técnica (ETL, SQL, SAQL, Python) só tem valor quando orientada 
 
 ### 🚀 Como gero valor para o negócio
 
-* **Inteligência de Negócios & KPIs:** Tradução de metas corporativas em painéis decisórios acionáveis utilizando **Power BI** e **Salesforce CRM Analytics (CRMA)**, focados na usabilidade do usuário final e no monitoramento ágil de resultados.
+* **Inteligência de Negócios & KPIs:** Tradução de metas corporativas em painéis decisórios acionáveis utilizando **Power BI**, **Salesforce CRM Analytics (CRMA)** e **Tableau**, focados na usabilidade do usuário final e no monitoramento ágil de resultados.
 * **Engenharia de Consultas Orientada a Negócios:** Criação de modelagens e scripts avançados em **SQL**, **SAQL** e **Python** (Pandas/NumPy) para higienizar bases massivas, identificar gargalos operacionais (ex: retenção de safra) e garantir a qualidade da informação.
 * **Governança de CRM e Processos:** Mapeamento de fluxos operacionais e administração estrutural do ecossistema Salesforce. Desenho de perfis de visualização e regras de segurança que respeitam a hierarquia e as políticas da empresa para centenas de usuários.
 * **Automação & Eficiência Operacional:** Identificação de dores processuais e aplicação de inteligência artificial (Engenharia de Prompt) para mitigar gargalos internos, incluindo o deploy de agentes virtuais que escalam o atendimento e retêm demandas.
