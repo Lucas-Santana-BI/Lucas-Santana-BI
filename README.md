@@ -39,6 +39,12 @@ Acredito que a técnica (ETL, SQL, SAQL, Python) só tem valor quando orientada 
 
 ### 🏆 Portfólio de Soluções Analíticas
 
+#### 🔄 [Pipeline Automatizado & Dashboard: Pesquisa de Clima Organizacional (Power BI + Automate)](https://github.com/Lucas-Santana-BI/PesquisaClimaRH)
+Arquitetura end-to-end desenvolvida para automatizar a coleta, estruturação e análise da pesquisa de engajamento corporativo, sem intervenção manual.
+* **Impacto de Negócio:** Eliminação de 100% do tempo gasto pelo RH com tabulação de dados em planilhas. Governança garantida na origem das respostas e entrega de insights de clima organizacional *Near Real-Time*, respeitando o anonimato (LGPD) dos respondentes.
+* **Execução Técnica:** Orquestração orientada a eventos (*Event-Driven*) usando **Power Automate** para capturar submissões no Microsoft Forms, gravar em nuvem (SharePoint) e acionar a API de atualização do modelo semântico. No **Power BI**, aplicação de *Unpivot* massivo no Power Query (normalizando +40 variáveis) e modelagem dimensional baseada em Escala Likert suportada por funções iteradoras em **DAX** (`SUMX`).
+* *[Ver case completo e scripts do CRMA](https://github.com/Lucas-Santana-BI/PesquisaClimaRH)*
+
 #### 📊 [Dashboard Executivo: Cobertura e Recorrência de Atendimentos (CRM Analytics)](https://github.com/Lucas-Santana-BI/CRMA_Portfolio-Lucas)
 Solução desenvolvida no **Salesforce CRM Analytics** para responder a um desafio estratégico: medir a real capilaridade territorial e a taxa de fidelização de clientes corporativos (PJs).
 * **Impacto de Negócio:** Visibilidade executiva sobre metas de cobertura (MEI/ME/EPP) e monitoramento do retorno de clientes entre 2025 e 2026.
