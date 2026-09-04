@@ -66,10 +66,10 @@ Painel de inteligência de mercado focado em identificar viabilidade econômica 
 
 ### 🎓 Background Acadêmico & Especializações
 * **Graduação em Administração** – Universidade Paulista (UNIP) | *Visão corporativa e gestão de processos.*
-* **Licenciatura em Música** – Centro Universitário Internacional (UNINTER)
 * **Certificado Profissional Google Data Analytics** – Google / Coursera
 * **Google Prompting Essentials** – Google / Coursera
 * **Business Intelligence com Power BI** – Witseed
+* **Machine Learning** – Dell Lead
 
 ---
 
