@@ -62,6 +62,14 @@ Painel de inteligência de mercado focado em identificar viabilidade econômica 
 * **Impacto de Negócio:** Criação de uma "Matriz de Vitalidade" cruzando renda per capita e taxa de empreendedorismo para orientar estratégias de expansão B2B e mapear o risco de mortalidade de empresas (2024-2026).
 * *[Ver case completo do Mapeamento de Empreendedorismo](https://github.com/Lucas-Santana-BI/Tableau_Portolio_Lucas)*
 
+🤖 [Pipeline Automatizado com IA: Processamento de Documentos de Viagem (Gemini + Apps Script)](#)
+
+Solução serverless end-to-end desenvolvida para automatizar a leitura de PDFs despadronizados, extração semântica e estruturação contábil de reservas diretamente no Google Sheets.
+
+* **Impacto de Negócio:** Redução drástica do tempo de digitação manual do back-office (de minutos para segundos por bilhete) e mitigação de perdas financeiras por erros humanos no cálculo de comissões complexas (RAV/DU). Liberação da capacidade produtiva da equipe para focar em atendimento consultivo e vendas.
+* **Execução Técnica:** Orquestração serverless nativa via **Google Apps Script** monitorando diretórios no Drive. Integração via requisições HTTP REST com a API do **Google Gemini** para extração multimodal (PDF convertido em Base64 para JSON estruturado). Implementação de lógica de *fallback* de modelos (tratamento de HTTP 429), normalização de strings financeiras e injeção dinâmica de fórmulas.
+* [*Ver case completo e scripts de automação*](https://github.com/Lucas-Santana-BI/Automa-o_Ag-ncia_de_Viagens/blob/main/README.md)
+
 ---
 
 ### 🎓 Background Acadêmico & Especializações
