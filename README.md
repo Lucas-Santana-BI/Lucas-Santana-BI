@@ -25,6 +25,8 @@ Acredito que a técnica (ETL, SQL, SAQL, Python) só tem valor quando orientada 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SAQL](https://img.shields.io/badge/SAQL-Data_Query-success?style=for-the-badge) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 **Data Visualization, BI & Controle:**  
 ![CRM Analytics](https://img.shields.io/badge/CRM_Analytics-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) 
@@ -34,6 +36,11 @@ Acredito que a técnica (ETL, SQL, SAQL, Python) só tem valor quando orientada 
 **Ecossistema Operacional & Automação:**  
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-036C70?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-Integration-success?style=for-the-badge)
 
 ---
 
