@@ -62,7 +62,7 @@ Painel de inteligência de mercado focado em identificar viabilidade econômica 
 * **Impacto de Negócio:** Criação de uma "Matriz de Vitalidade" cruzando renda per capita e taxa de empreendedorismo para orientar estratégias de expansão B2B e mapear o risco de mortalidade de empresas (2024-2026).
 * *[Ver case completo do Mapeamento de Empreendedorismo](https://github.com/Lucas-Santana-BI/Tableau_Portolio_Lucas)*
 
-🤖 [Pipeline Automatizado com IA: Processamento de Documentos de Viagem (Gemini + Apps Script)](#)
+#### 🤖 [Pipeline Automatizado com IA: Processamento de Documentos de Viagem (Gemini + Apps Script)](#)
 
 Solução serverless end-to-end desenvolvida para automatizar a leitura de PDFs despadronizados, extração semântica e estruturação contábil de reservas diretamente no Google Sheets.
 
